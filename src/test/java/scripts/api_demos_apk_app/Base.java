@@ -18,6 +18,7 @@ public class Base {
     ApiDemosViewsPage apiDemosViewsPage;
     ApiDemosAnimationsPage apiDemosAnimationsPage;
     ApiDemosShakePage apiDemosShakePage;
+    ApiDemosVerticesPage apiDemosVerticesPage;
 
     @BeforeMethod
     public void setDriver(){
